@@ -53,12 +53,12 @@ p, .header-links {
 }
 
 .header-section, .hero-section, .copyright-section {
-    background-color: #1F2937;
+    background-color: #8cb04e;
     color: white;
 }
 
 .feature-section, .footer-section {
-    background-color: white;
+    background-color: #e1dfb6;
 }
 
 .quote-section {
@@ -92,7 +92,7 @@ p, .header-links {
 .header-links {
     display: flex;
     justify-content: space-between;
-    width: 16%;
+    width: 20%;
 }
 
 .header-logo {
@@ -113,7 +113,7 @@ p, .header-links {
 }
 
 .hero-button {
-    background-color: #3882F6;
+    background-color: #5c452d;
     margin-top: 28px;
 }
 
@@ -141,7 +141,7 @@ p, .header-links {
     height: 200px;
     border-style: solid;
     border-radius: 20px;
-    border-color: #3882F6;
+    border-color: #8cb04e;
     margin-bottom: 16px;
 }
 
@@ -154,8 +154,8 @@ p, .header-links {
 .footer-container {
     justify-content: center;
     align-items: center;
-    gap: 360px;
-    background-color: #3882F6;
+    gap: 250px;
+    background-color: #5c452d;
     color: white;
     margin-top: 80px;
     border-radius: 10px;
@@ -163,7 +163,7 @@ p, .header-links {
 }
 
 .footer-button {
-    background-color: #3882F6;
+    background-color: #5c452d;
     border-style: solid;
     border-color: white;
 }
